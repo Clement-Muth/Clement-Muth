@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clement-Muth&layout=compact&show_icons=true&theme=radical)](https://github.com/Clement-Muth?tab=repositories)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Clement-Muth&repo=clibrary&show_icons=true&theme=radical)](https://github.com/Clement-Muth/clibrary)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Clement-Muth&repo=dashboard_youtube&show_icons=true&theme=radical)](https://github.com/Clement-Muth/dashboard_youtube)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Clement-Muth&repo=CPE_corewar_2019&show_icons=true&theme=radical)](https://github.com/Clement-Muth/CPE_corewar_2019)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Clement-Muth&repo=receipt-manager&show_icons=true&theme=radical)](https://github.com/Clement-Muth/receipt-manager)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Clement-Muth&repo=my_rpg_2019&show_icons=true&theme=radical)](https://github.com/Clement-Muth/my_rpg_2019)
 
 ## Connect with me
