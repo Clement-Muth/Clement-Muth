@@ -1,7 +1,7 @@
 <h1 align="center">Hello ! I'm <a href="https://www.linkedin.com/in/clement-muth/">Clément Muth</a>. Welcome to my GitHub !!</h1>
 
 <h3>I'm studying at Epitech - 3 years</h3>
-<h3 style="display: flex">I'm PDG of <a href="https://azinove.com"><img style="display: flex; margin: auto" src="https://azinove.com/static/images/azinove-brand.png" width="130px"/></a></h3>
+<h3 style="display: flex">I'm PDG of azinove</h3>
 
 [![Clement-Muth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clement-Muth&show_icons=true&theme=radical)](https://github.com/Clement-Muth?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clement-Muth&layout=compact&show_icons=true&theme=radical)](https://github.com/Clement-Muth?tab=repositories)
