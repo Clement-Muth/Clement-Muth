@@ -12,5 +12,5 @@
 
 ## Connect with me
 
-|<a href="https://www.linkedin.com/in/clement-muth/"><img style="display: flex; margin: auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="30px"/></a>|<a href="https://discord.com/channels/480822766401093692"><img style="display: flex; margin: auto" src="https://japaniste.fr/wp-content/uploads/2019/12/discord-logo-png-transparent.png" width="30px"/></a>|
-|----|----|
+|<a href="https://www.linkedin.com/in/clement-muth/"><img style="display: flex; margin: auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="30px"/></a>|<a href="https://discord.com/channels/480822766401093692"><img style="display: flex; margin: auto" src="https://japaniste.fr/wp-content/uploads/2019/12/discord-logo-png-transparent.png" width="30px"/></a>|<a href="https://www.malt.fr/profile/clementmuth"><img style="display: flex; margin: auto" src="https://play-lh.googleusercontent.com/pCYfqB1v-c9Phmvjxji_v37Lf1l59fg1pIy17PztwmS2yoRvGtNAgHZlOHQf0AQo_MZv" width="30px"/></a>|
+|----|----|----|
