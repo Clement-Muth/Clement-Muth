@@ -1,119 +1,216 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6366f1&height=220&section=header&text=Cl%C3%A9ment%20Muth&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Lead%20Front-End%20%C2%B7%20Software%20Architect%20%C2%B7%20DevOps&descSize=18&descColor=a78bfa&descAlignY=55)
+
 <div align="center">
 
-# Hey, I'm Clement Muth
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=818CF8&center=true&vCenter=true&random=false&width=600&lines=Building+products+at+the+intersection+of;product%2C+technology+%26+infrastructure;7%2B+years+of+crafting+web+experiences;From+Strasbourg+%F0%9F%87%AB%F0%9F%87%B7+to+California+%F0%9F%87%BA%F0%9F%87%B8+and+back)](https://git.io/typing-svg)
 
-**Lead Front-End Engineer | Software Architect | DevOps**
-
-*7+ years turning complex product requirements into clean, performant web applications.*
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clement-muth/)
 [![Malt](https://img.shields.io/badge/Malt-FC5757?style=for-the-badge&logo=malt&logoColor=white)](https://www.malt.fr/profile/clementmuth)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clementmuth@gmail.com)
+![Views](https://komarev.com/ghpvc/?username=Clement-Muth&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
----
+<br/>
 
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clement-Muth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+## `> whoami`
 
-### About me
+```js
+const clement = {
+    location: "Strasbourg, France 📍",
+    role: "Lead Front-End & Software Architect @ AkorD",
+    companies: ["AkorD", "Facix", "Azinove (founder)"],
+    education: {
+        degree: "Expert in Computer Science",
+        school: "EPITECH (2019–2025)",
+        exchange: "CSU San Marcos, California (2023–2024)"
+    },
+    philosophy: [
+        "Domain-Driven Design as foundation",
+        "CI/CD pipelines from day one",
+        "Code reviews as a team learning tool",
+        "Ship fast, ship with confidence"
+    ],
+    currentlyBuilding: "Pulse — AI-powered autonomous dev pipeline 🤖"
+};
+```
 
-I thrive at the intersection of product, technology, and infrastructure. I started coding at 17, founded my own agency **Azinove** at 21, and now lead frontend architecture at **AkorD**.
+<br/>
 
-I believe in DDD, CI/CD from day one, and code reviews as a team learning tool.
-
-**Strasbourg, France** | French & English
-
-<br clear="right"/>
-
----
-
-### Tech Stack
+## `> tech --stack`
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,python,postgres,aws,docker,terraform,githubactions,figma&theme=dark&perline=6)](https://skillicons.dev)
 
-</div>
-
----
-
-### Featured Projects
+<br/>
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-#### <img src="https://img.shields.io/badge/-00C853?style=flat-square" /> Deazl
-
-Community-driven **price comparison platform** helping you save on groceries. Scan barcodes, submit prices, create collaborative shopping lists, and track price trends.
-
-**Next.js** | **TypeScript** | **Tailwind** | **PWA** | **DDD** | **PostgreSQL**
-
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/Clement-Muth/Deazl)
-[![Stars](https://img.shields.io/github/stars/Clement-Muth/Deazl?style=flat-square&color=yellow)](https://github.com/Clement-Muth/Deazl)
-
+<td align="center"><b>Frontend</b></td>
+<td align="center"><b>Backend & Infra</b></td>
+<td align="center"><b>Methods</b></td>
+</tr>
+<tr>
+<td>
+React · Next.js · TypeScript<br/>
+Tailwind · Framer Motion<br/>
+React Native · Storybook<br/>
+SSR / SSG / ISR
 </td>
-<td width="50%" valign="top">
-
-#### <img src="https://img.shields.io/badge/-7C3AED?style=flat-square" /> Pulse (AI Automation)
-
-Autonomous pipeline that transforms **Jira tickets into draft PRs** using Claude AI. Reads tickets, analyzes codebase context, generates code, runs tests, and opens PRs with safety guardrails.
-
-**Python** | **Claude AI** | **Jira API** | **GitHub CLI**
-
-`85% first-review approval rate` | `30+ tickets/week`
-
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/AkorD-AI/AI-Automation)
-
+<td>
+Node.js · Python · PostgreSQL<br/>
+AWS (ECS, S3, RDS, CloudFront)<br/>
+Docker · Terraform · Traefik<br/>
+REST · GraphQL · Firebase
+</td>
+<td>
+Domain-Driven Design<br/>
+CI/CD · GitHub Actions<br/>
+Monorepo (Yarn/Turborepo)<br/>
+Agile · Code Reviews
 </td>
 </tr>
 </table>
 
-<details>
-<summary><b>More open-source work</b></summary>
+</div>
+
 <br/>
 
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [nextjs-stripe](https://github.com/Clement-Muth/nextjs-stripe) | Complete Stripe integration with checkout, subscriptions & webhooks | ![Stars](https://img.shields.io/github/stars/Clement-Muth/nextjs-stripe?style=flat-square) |
-| [nextjs-13-lingui](https://github.com/Clement-Muth/nextjs13-app-router-lingui) | LinguiJS + Next.js 13 App Router + RSC reference implementation | ![Stars](https://img.shields.io/github/stars/Clement-Muth/nextjs13-app-router-lingui?style=flat-square) |
-| [nextjs-traefik](https://github.com/Clement-Muth/nextjs-traefik) | Production-ready Next.js + Traefik reverse proxy with auto TLS | ![Stars](https://img.shields.io/github/stars/Clement-Muth/nextjs-traefik?style=flat-square) |
-| [boids-simulation](https://github.com/Clement-Muth/boids-simulation) | Craig Reynolds' flocking algorithm visualized in TypeScript | - |
+## `> ls ./projects --featured`
 
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">
+<img src="https://img.shields.io/badge/●-10B981?style=flat-square&logoColor=white" height="10"/>
+Deazl
+</h3>
+
+<p align="center">
+<a href="https://github.com/Clement-Muth/Deazl">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Clement-Muth&repo=Deazl&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9" />
+</a>
+</p>
+
+Community-driven **price comparison platform**. Scan barcodes, compare prices across stores, create collaborative shopping lists, track price trends.
+
+`Next.js` `TypeScript` `Tailwind` `PWA` `DDD` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">
+<img src="https://img.shields.io/badge/●-8B5CF6?style=flat-square&logoColor=white" height="10"/>
+Pulse
+</h3>
+
+<p align="center">
+<a href="https://github.com/AkorD-AI/AI-Automation">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkorD-AI&repo=AI-Automation&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9" />
+</a>
+</p>
+
+Autonomous pipeline transforming **Jira tickets into draft PRs** using Claude AI. Reads, analyzes, codes, tests, and opens PRs with safety guardrails.
+
+`Python` `Claude AI` `Jira API` `GitHub CLI`
+
+<p align="center">
+<img src="https://img.shields.io/badge/85%25-first--review%20approval-10B981?style=flat-square"/>
+<img src="https://img.shields.io/badge/30+-tickets%2Fweek-818cf8?style=flat-square"/>
+</p>
+
+</td>
+</tr>
+</table>
+</div>
+
+<details>
+<summary><b>&nbsp;🔓&nbsp; More open-source work</b></summary>
+<br/>
+<div align="center">
+<table>
+<tr>
+<td width="33%" align="center">
+
+[![nextjs-stripe](https://github-readme-stats.vercel.app/api/pin/?username=Clement-Muth&repo=nextjs-stripe&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9)](https://github.com/Clement-Muth/nextjs-stripe)
+
+</td>
+<td width="33%" align="center">
+
+[![lingui](https://github-readme-stats.vercel.app/api/pin/?username=Clement-Muth&repo=nextjs13-app-router-lingui&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9)](https://github.com/Clement-Muth/nextjs13-app-router-lingui)
+
+</td>
+<td width="33%" align="center">
+
+[![traefik](https://github-readme-stats.vercel.app/api/pin/?username=Clement-Muth&repo=nextjs-traefik&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9)](https://github.com/Clement-Muth/nextjs-traefik)
+
+</td>
+</tr>
+</table>
+</div>
 </details>
 
----
+<br/>
 
-### Experience
+## `> cat ./experience.log`
 
 ```
-2026 — now    Lead Front-End & Software Architect @ AkorD       Mulhouse, FR
-2024 — 2026   Fullstack Developer & DevOps @ AkorD              Mulhouse, FR
-2023 — now    Freelance Developer (Self-Employed)               Strasbourg, FR
-2022 — now    Lead Front-End @ Facix (EPITECH Project)          Strasbourg, FR
-2021 — 2024   Founder, CTO & CPO @ Azinove                     Strasbourg, FR
+ ┌──────────────────────────────────────────────────────────────────┐
+ │                                                                  │
+ │  2026 — now    ⚡ Lead Front-End & Architect    AkorD            │
+ │                   Defining technical direction, mentoring devs,  │
+ │                   DDD patterns, monorepo architecture            │
+ │                                                                  │
+ │  2024 — 2026   🔧 Fullstack Developer & DevOps  AkorD           │
+ │                   3 production apps, AWS infra with Terraform,   │
+ │                   shared UI library, automated deployments       │
+ │                                                                  │
+ │  2023 — now    💼 Freelance Developer            Self-Employed   │
+ │                   10+ projects, e-commerce, SaaS, mobile apps    │
+ │                   100% on-time delivery, 4.8/5 on Malt           │
+ │                                                                  │
+ │  2021 — 2024   🚀 Founder, CTO & CPO            Azinove         │
+ │                   Agency from 0 to 20+ clients, 30+ websites     │
+ │                   Team of 5, profitable year one                  │
+ │                                                                  │
+ │  2020          🌱 Intern Developer               AirCampus       │
+ │                   Where it all started...                         │
+ │                                                                  │
+ └──────────────────────────────────────────────────────────────────┘
 ```
 
-**Education** — EPITECH (2019-2025) | CSU San Marcos, California (2023-2024)
+<br/>
 
----
+## `> neofetch --stats`
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Clement-Muth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true)](https://github.com/Clement-Muth)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Clement-Muth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&icon_color=818cf8&count_private=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Clement-Muth&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=a78bfa&currStreakLabel=818cf8&sideLabels=818cf8&dates=545c7a" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Clement-Muth&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://github.com/Clement-Muth)
+<br/><br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Clement-Muth&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=818cf8&line=a78bfa&point=c4b5fd&area=true&area_color=818cf8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Clement-Muth&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+<br/>
+
+<div align="center">
+
+```
+                    "I don't just write code, I solve problems."
+```
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:1a1b27,100:0d1117&height=120&section=footer)
