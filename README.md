@@ -190,16 +190,17 @@ Autonomous pipeline transforming **Jira tickets into draft PRs** using Claude AI
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Clement-Muth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&icon_color=818cf8&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Clement-Muth&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=a78bfa&currStreakLabel=818cf8&sideLabels=818cf8&dates=545c7a" />
+[![](https://raw.githubusercontent.com/Clement-Muth/Clement-Muth/master/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<br/><br/>
+[![](https://raw.githubusercontent.com/Clement-Muth/Clement-Muth/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Clement-Muth/Clement-Muth/master/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Clement-Muth&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=818cf8&line=a78bfa&point=c4b5fd&area=true&area_color=818cf8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://raw.githubusercontent.com/Clement-Muth/Clement-Muth/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Clement-Muth/Clement-Muth/master/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clement-Muth&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9" />
+<img width="60%" src="https://streak-stats.demolab.com?user=Clement-Muth&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=a78bfa&currStreakLabel=818cf8&sideLabels=818cf8&dates=545c7a" />
 
 </div>
 
