@@ -199,7 +199,7 @@ Autonomous pipeline transforming **Jira tickets into draft PRs** using Claude AI
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Clement-Muth&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clement-Muth&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9" />
 
 </div>
 
